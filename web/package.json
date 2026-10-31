@@ -167,7 +167,7 @@
     "chokidar-cli": "^3.0.0",
     "concurrently": "^10.0.3",
     "esbuild": "^0.28.1",
-    "happy-dom": "^20.9.0",
+    "happy-dom": "^21.0.4",
     "husky": "^9.1.7",
     "lint-staged": "^17.0.4",
     "node-fetch": "^3.3.2",
